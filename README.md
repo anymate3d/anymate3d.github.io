@@ -1,4 +1,4 @@
-# Nerfies
+# Anymate
 
 This is the repository that contains source code for the [Anymate](https://anymate3d.github.io).
 
