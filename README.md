@@ -1,14 +1,19 @@
-# Anymate
+![image](https://github.com/user-attachments/assets/f7137ea9-5b51-47ed-b58e-589adf916ae3)# Anymate
 
 This is the repository that contains source code for the [Anymate](https://anymate3d.github.io).
 
 If you find Anymate useful for your work please cite:
 ```
-@article{deng2025anymate,
-  title={Anymate: A Dataset and Baselines for Learning 3D Object Rigging},
-  author={Deng, Yufan and Zhang, Yuhao and Geng, Chen and Wu, Shangzhe and Wu, Jiajun},
-  journal={arXiv preprint arXiv:2505.06227},
-  year={2025}
+@inproceedings{deng2025anymate,
+  author       = {Yufan Deng and Yuhao Zhang and Chen Geng and Shangzhe Wu and Jiajun Wu},
+  title        = {Anymate: A Dataset and Baselines for Learning 3D Object Rigging},
+  booktitle    = {Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers (SIGGRAPH Conference Papers '25)},
+  year         = {2025},
+  month        = aug,
+  address      = {Vancouver, BC, Canada},
+  publisher    = {Association for Computing Machinery},
+  location     = {Vancouver, BC, Canada},
+  note         = {August 10–14, 2025}
 }
 ```
 
