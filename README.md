@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7137ea9-5b51-47ed-b58e-589adf916ae3)# Anymate
+# Anymate
 
 This is the repository that contains source code for the [Anymate](https://anymate3d.github.io).
 
